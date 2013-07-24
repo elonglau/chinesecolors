@@ -1,0 +1,4 @@
+chinesecolors
+=============
+
+chinese traditional colors
